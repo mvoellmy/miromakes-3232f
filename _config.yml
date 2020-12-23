@@ -38,7 +38,7 @@ footer:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/miro_makes'
       style: icon
       icon_class: fa-twitter
       new_window: true
