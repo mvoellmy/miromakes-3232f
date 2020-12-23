@@ -38,25 +38,27 @@ footer:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/miro_makes'
       style: icon
       icon_class: fa-twitter
       new_window: true
     - label: Instagram
-      url: 'https://www.instagram.com/'
+      url: 'https://www.instagram.com/miro.makes/'
       style: icon
       icon_class: fa-instagram
       new_window: true
-    - label: Dribbble
-      url: 'https://dribbble.com/'
-      style: icon
-      icon_class: fa-dribbble
-      new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
-      style: icon
-      icon_class: fa-linkedin
-      new_window: true
+      url: 'https://www.linkedin.com/in/mirovoellmy/'
+      style: link
+      icon_class: lorem-ipsum
+      new_window: false
+      type: action
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      style: link
+      icon_class: lorem-ipsum
+      new_window: false
+      type: action
 sass:
   indentWidth: 4
   style: nested
