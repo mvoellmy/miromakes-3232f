@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: portfolio of miro voellmy
 color_scheme: dark
-accent_color: blue
+accent_color: violet
 header:
   title: miro makes
   has_nav: true
