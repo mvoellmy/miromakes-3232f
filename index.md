@@ -14,7 +14,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: projects
-    subtitle: An optional subtitle of the section
+    subtitle: 'work and '
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
