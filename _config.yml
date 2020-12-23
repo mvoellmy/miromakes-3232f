@@ -43,7 +43,7 @@ footer:
       icon_class: fa-twitter
       new_window: true
     - label: Instagram
-      url: 'https://www.instagram.com/'
+      url: 'https://www.instagram.com/miro.makes/'
       style: icon
       icon_class: fa-instagram
       new_window: true
