@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: Portfolio of Miro Voellmy
+description: portfolio of miro voellmy
 color_scheme: dark
 accent_color: green
 header:
