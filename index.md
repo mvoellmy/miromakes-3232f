@@ -7,7 +7,7 @@ sections:
     title: miro makes things.
     content: 'mechanical engineer, musician and more.'
     actions:
-      - label: ''
+      - label: mail me
         url: /contact
         style: button
   - section_id: latest-projects
