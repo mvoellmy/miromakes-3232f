@@ -16,7 +16,7 @@ sections:
     title: my work
     subtitle: ''
     projects_number: 2
-    view_all_label: View All
+    view_all_label: more
     view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
