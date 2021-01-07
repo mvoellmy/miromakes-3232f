@@ -29,6 +29,7 @@ header:
     - label: Contact
       url: /contact/
       style: link
+  logo_img: images/miro makes.png
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
