@@ -27,7 +27,6 @@ sections:
         options:
           - Error on the site
           - Sponsorship
-          - Other
       - input_type: textarea
         name: message
         label: Message
