@@ -20,7 +20,7 @@ header:
     - label: me
       url: /about/
       style: link
-    - label: Contact
+    - label: mail me
       url: /contact/
       style: link
   logo_img: images/miro makes.png
