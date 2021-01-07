@@ -4,6 +4,7 @@ subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2021-01-07'
 layout: project
+thumb_image: images/7.jpg
 ---
 ## Lorem ipsum
 
