@@ -1,9 +1,9 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: bamboo bike
+subtitle: building a bamboo track bike
 date: '2019-05-10'
-thumb_image: images/11.jpg
-image: images/1.jpg
+thumb_image: images/IMG_6036.JPG
+image: images/IMG_6108.JPG
 layout: project
 ---
 
