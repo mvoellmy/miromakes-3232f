@@ -11,7 +11,7 @@ header:
   title: miro makes
   has_nav: true
   nav_links:
-    - label: Home
+    - label: main
       url: /
       style: link
     - label: Portfolio
