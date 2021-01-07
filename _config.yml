@@ -14,7 +14,7 @@ header:
     - label: main
       url: /
       style: link
-    - label: Portfolio
+    - label: my work
       url: /portfolio/
       style: link
     - label: About
