@@ -6,8 +6,7 @@ sections:
     type: section_form
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      fill the contact form below to get in touch.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -21,14 +20,13 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
+      - input_type: text
         name: subject
         label: Subject
-        default_value: Please select
+        default_value: Topic
         options:
           - Error on the site
           - Sponsorship
-          - Other
       - input_type: textarea
         name: message
         label: Message

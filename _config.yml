@@ -5,8 +5,8 @@ collections:
   posts:
     permalink: '/posts/:title/'
 description: portfolio of miro voellmy
-color_scheme: dark
-accent_color: blue
+color_scheme: light
+accent_color: yellow
 header:
   title: miro makes
   has_nav: true
@@ -20,15 +20,13 @@ header:
     - label: Blog
       url: /blog/
       style: link
-    - label: Style Guide
-      url: /style-guide/
-      style: link
     - label: About
       url: /about/
       style: link
     - label: Contact
       url: /contact/
       style: link
+  logo_img: images/miro makes.png
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
