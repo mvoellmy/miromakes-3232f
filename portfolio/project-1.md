@@ -2,7 +2,7 @@
 title: bamboo bike
 subtitle: building a bamboo track bike
 date: '2019-05-10'
-thumb_image: images/11.jpg
+thumb_image: images/IMG_6036.JPG
 image: images/1.jpg
 layout: project
 ---
