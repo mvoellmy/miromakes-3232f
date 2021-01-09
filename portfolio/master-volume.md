@@ -2,8 +2,8 @@
 title: master volume
 subtitle: making my life easier
 date: '2021-01-09'
-thumb_image: images/happy-owl.JPG
-image: images/majestic-iron.JPG
+thumb_image: images/master-volume/IMG_20200527_195853.jpg
+image: images/master-volume/IMG_20200527_195853.jpg
 layout: project
 ---
 
