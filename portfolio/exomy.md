@@ -1,7 +1,6 @@
 ---
 title: ExoMy
 subtitle: an open source 3D printed rover
-excerpt: ExoMy is an open source, 3D printed rover.
 date: '2021-01-09'
 layout: project
 ---
