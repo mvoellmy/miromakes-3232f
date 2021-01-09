@@ -5,11 +5,29 @@ excerpt: lorem-ipsum
 date: '2021-01-09'
 layout: project
 ---
-## Lorem ipsum
+ExoMy is an open source, fully 3D printed rover, that I developed together with Maximilian Ehrhardt during my two years of working in the Planetary Robotics Laboratory at the European Space Agency.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+When working on ExoMy, it was important to build an online presence as well as a community around the open source project. A discord server was set up where people from all around the world could chat about their progress, problems and new solutions revolving around ExoMy.
 
-- Lorem ipsum
-- dolor sit amet
+Find out more about ExoMy here:
 
-<img src="https://github.com/esa-prl/ExoMy/wiki/images/beauty_shots/edu_assembly/DSC05713.jpg" width="600">
+[Website](https://esa-prl.github.io/ExoMy/)
+
+[Wiki](https://github.com/esa-prl/ExoMy/wiki)
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
+
+<!-- Add font awesome icons -->
+<p>
+    <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/discord-brands.svg" width="20px">
+    <a href="https://discord.gg/gZk62gg"> Join the Community!</a>  
+</p>
+<p>
+    <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/twitter-square-brands.svg" width="20px">
+    <a href="https://twitter.com/exomy_rover"> @ExoMy_Rover</a> 
+</p>
+<p>
+    <img src="https://github.com/esa-prl/ExoMy/wiki/images/social_media_icons/instagram-square-brands.svg" width="20px">
+    <a href="https://www.instagram.com/exomy_rover/"> @ExoMy_Rover</a>
+</p>
