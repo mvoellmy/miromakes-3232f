@@ -3,6 +3,7 @@ title: ExoMy
 subtitle: an open source 3D printed rover
 date: '2021-01-09'
 layout: project
+thumb_image: images/DSC05713.jpg
 ---
 ExoMy is an open source, fully 3D printed rover, that I developed together with Maximilian Ehrhardt during my two years of working in the Planetary Robotics Laboratory at the European Space Agency.
 
