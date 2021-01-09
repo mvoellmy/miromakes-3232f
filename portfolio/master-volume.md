@@ -13,5 +13,5 @@ As the amplifier does have an effects loop it is possible to build a pseudo mast
 
 A 3D printed "extension-plug" is added to the effects loop return in order to regulate the volume using the potentiometer installed on the amps control panel.
 
-![rear-side](http://miromakes.com/images/master-volume/IMG_20200527_195905.jpg){:class="img-responsive"}
+![rear-side](https://miromakes.com/images/master-volume/IMG_20200527_195905.jpg){:class="img-responsive"}
 
