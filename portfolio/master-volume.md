@@ -11,5 +11,6 @@ My [Blackstar HT-5R MkII](https://www.blackstaramps.com/uk/ranges/ht-5r-mkii) gu
 
 As the amplifier does have an effects loop it is possible to build a pseudo master volume. The goal was to build a master volume that is highly integrated into the amp and does not feel out of place.
 
-Check out the result bellow:
+A 3D printed "extension-plug" is added to the effects loop return in order to regulate the volume using the potentiometer installed on the amps control panel.
+![rear-side](images/master-volume/IMG_20200527_195853.jpg){:class="img-responsive"}
 
