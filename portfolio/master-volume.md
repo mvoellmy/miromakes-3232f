@@ -1,7 +1,7 @@
 ---
 title: master volume
 subtitle: making my life easier
-date: '2021-01-09'
+date: '2020-03-09'
 thumb_image: images/master-volume/IMG_20200527_195853.jpg
 image: images/master-volume/IMG_20200527_195853.jpg
 layout: project

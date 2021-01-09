@@ -1,7 +1,7 @@
 ---
 title: bamboo bike
 subtitle: building a bamboo track bike and a blog
-date: '2019-05-10'
+date: '2011-05-10'
 thumb_image: images/happy-owl.JPG
 image: images/majestic-iron.JPG
 layout: project
