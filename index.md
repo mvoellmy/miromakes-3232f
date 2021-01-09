@@ -15,7 +15,7 @@ sections:
     layout_style: tiles
     title: my work
     subtitle: ''
-    projects_number: 2
+    projects_number: 6
     view_all_label: more
     view_all_url: portfolio
 layout: advanced
