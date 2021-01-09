@@ -1,6 +1,6 @@
 ---
 title: ExoMy
-subtitle: lorem-ipsum
+subtitle: an open source 3D printed rover
 excerpt: lorem-ipsum
 date: '2021-01-09'
 layout: project
