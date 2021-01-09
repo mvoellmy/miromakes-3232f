@@ -1,6 +1,6 @@
 ---
 title: my work
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: stuff I've done
 layout_style: mosaic
 layout: portfolio
 ---
