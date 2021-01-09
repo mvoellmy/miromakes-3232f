@@ -8,6 +8,6 @@ layout: project
 ---
 During the last year of my high school, I set out to design, prototype and build a functioning bamboo bike. The bike was build in cooperation with Fahrradbau Stolz and Ganz Yachting who generously provided me with workshop facilities, support and expertise in bike building and composite manufacturing.
 
-![image-title-here](/image/1.jpg){:class="img-responsive"}
+![image-title-here](https://miromakes.com/images/majestic-iron.JPG){:class="img-responsive"}
 
 The whole build process was continuously documented in my [blog](http://bambusrad.blogspot.com/). This created a small community of bamboo frame builders and it was exciting to read the feedback and experience of people from all around the world.
