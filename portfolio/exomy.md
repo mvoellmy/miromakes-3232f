@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: ExoMy - a 3D printed rover
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2021-01-09'
