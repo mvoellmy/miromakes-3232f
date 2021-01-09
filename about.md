@@ -1,5 +1,5 @@
 ---
-title: miro
+title: miro voellmy
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 layout: page
