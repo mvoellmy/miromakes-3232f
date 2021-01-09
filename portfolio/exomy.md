@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 
 - Lorem ipsum
 - dolor sit amet
+
+<img src="https://github.com/esa-prl/ExoMy/wiki/images/beauty_shots/edu_assembly/DSC05713.jpg" width="600">
