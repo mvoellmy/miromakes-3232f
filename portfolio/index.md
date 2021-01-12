@@ -1,6 +1,6 @@
 ---
 title: my work
-subtitle: 'overview of my '
+subtitle: 'selection of '
 layout_style: mosaic
 layout: portfolio
 ---
