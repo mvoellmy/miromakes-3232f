@@ -1,6 +1,6 @@
 ---
 title: my work
-subtitle: 'work, private and fun projects.'
+subtitle: 'Overview over '
 layout_style: mosaic
 layout: portfolio
 ---
