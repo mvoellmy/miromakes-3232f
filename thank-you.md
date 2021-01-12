@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: thank you
 layout: page
 ---
 
