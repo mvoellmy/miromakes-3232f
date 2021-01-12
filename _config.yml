@@ -32,6 +32,18 @@ footer:
     target="_blank" rel="noopener">here</a>.
   has_social: true
   social_links:
+    - label: GitHub
+      url: 'https://www.github.com/mvoellmy/'
+      style: icon
+      icon_class: fa-github
+      new_window: true
+      type: action
+    - label: LinkedIn
+      url: 'https://www.linkedin.com/in/mirovoellmy/'
+      style: icon
+      icon_class: fa-linkedin
+      new_window: true
+      type: action
     - label: Twitter
       url: 'https://twitter.com/miro_makes'
       style: icon
@@ -42,12 +54,8 @@ footer:
       style: icon
       icon_class: fa-instagram
       new_window: true
-    - label: LinkedIn
-      url: 'https://www.linkedin.com/in/mirovoellmy/'
-      style: link
-      icon_class: lorem-ipsum
-      new_window: false
-      type: action
+
+
 sass:
   indentWidth: 4
   style: nested
