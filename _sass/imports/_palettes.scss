@@ -254,3 +254,87 @@
     border-color: _palette(accent-yellow);
   }
 }
+
+
+.accent-black {
+  a,
+  blockquote:before,
+  .menu-item.current-menu-item,
+  .menu-item a:not(.button):hover,
+  .view-all-button,
+  #colophon a:not(.button):hover {
+    color: _palette(accent-black);
+  }
+
+  .form-group .animate-border,
+  .site-title a {
+    background: _palette(accent-black);
+  }
+
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  .button {
+    border-color: _palette(accent-black);
+    color: _palette(accent-black);
+
+    &:hover,
+    &:focus,
+    &:active {
+      color: _palette(accent-black);
+    }
+  }
+
+  a.button:before,
+  a.button:after,
+  button.button:before,
+  button.button:after,
+  .view-all-button:before,
+  .view-all-button:after,
+  .line-top:before {
+    border-color: _palette(accent-black);
+  }
+}
+
+
+.accent-white {
+  a,
+  blockquote:before,
+  .menu-item.current-menu-item,
+  .menu-item a:not(.button):hover,
+  .view-all-button,
+  #colophon a:not(.button):hover {
+    color: _palette(accent-white);
+  }
+
+  .form-group .animate-border,
+  .site-title a {
+    background: _palette(accent-white);
+  }
+
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  .button {
+    border-color: _palette(accent-white);
+    color: _palette(accent-white);
+
+    &:hover,
+    &:focus,
+    &:active {
+      color: _palette(accent-white);
+    }
+  }
+
+  a.button:before,
+  a.button:after,
+  button.button:before,
+  button.button:after,
+  .view-all-button:before,
+  .view-all-button:after,
+  .line-top:before {
+    border-color: _palette(accent-white);
+  }
+}

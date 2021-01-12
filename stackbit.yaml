@@ -66,6 +66,8 @@ models:
           - blue
           - violet
           - yellow
+          - black
+          - white
         default: pink
       - type: model
         name: header
