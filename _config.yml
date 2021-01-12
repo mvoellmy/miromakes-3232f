@@ -1,4 +1,4 @@
-title: miro makes.
+title: miro makes
 baseurl: /
 permalink: '/:title/'
 collections:
