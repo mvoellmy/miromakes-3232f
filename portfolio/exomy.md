@@ -10,6 +10,8 @@ ExoMy is an open source, fully 3D printed rover, that I developed together with 
 
 When working on ExoMy, it was important to build an online presence as well as a community around the open source project. A discord server was set up where people from all around the world could chat about their progress, problems and new solutions revolving around ExoMy.
 
+The project resulted in a [publication](https://www.researchgate.net/publication/344874558_ExoMy_A_Low_Cost_3D_Printed_Rover) at i-SAIRAS 2020 as well as a [poster](https://www.researchgate.net/publication/345162193_ExoMy_An_Open_Source_3D_Printed_Rover_for_Education) which was presented at the Workshop on Planetary Robotics at IROS 2020.
+
 Find out more about ExoMy here:
 
 [Website](https://esa-prl.github.io/ExoMy/)

@@ -7,8 +7,8 @@ sections:
     title: miro makes things.
     content: 'mechanical engineer, musician and more.'
     actions:
-      - label: mail me
-        url: /contact
+      - label: more about me
+        url: /about
         style: button
   - section_id: latest-projects
     type: section_portfolio

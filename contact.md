@@ -5,7 +5,7 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
+      Hi there! Please
       fill the contact form below to get in touch.
     form_id: contactForm
     form_action: /thank-you
