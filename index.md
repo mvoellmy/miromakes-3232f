@@ -5,7 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: miro makes things.
-    content: 'mechanical engineer, musician and more.'
+    content: |
+      mechanical engineer, musician and more.
+
+      *website is work in progress.*
     actions:
       - label: more about me
         url: /about
