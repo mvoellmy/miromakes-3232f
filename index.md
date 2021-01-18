@@ -7,8 +7,6 @@ sections:
     title: miro makes things.
     content: |
       mechanical engineer, musician and more.
-
-      *website is work in progress.*
     actions:
       - label: more about me
         url: /about
